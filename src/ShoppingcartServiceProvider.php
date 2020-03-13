@@ -6,6 +6,7 @@ use Illuminate\Auth\Events\Logout;
 use Illuminate\Session\SessionManager;
 use Illuminate\Support\ServiceProvider;
 
+// TEST fROM DEVELOP
 class ShoppingcartServiceProvider extends ServiceProvider
 {
 
