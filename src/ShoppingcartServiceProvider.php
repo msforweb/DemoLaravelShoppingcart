@@ -1,7 +1,7 @@
 <?php
 // Test
 namespace Gloudemans\Shoppingcart;
-
+//TEST
 use Illuminate\Auth\Events\Logout;
 use Illuminate\Session\SessionManager;
 use Illuminate\Support\ServiceProvider;
